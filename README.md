@@ -15,3 +15,7 @@ Data and code for ["A Dataset of Crowdsourced Word Sequences: Collections and An
 		address = "Hongkong, China",
 		publisher = "Association for Computational Linguistics",
     }
+
+
+## License
+Creative Commons CC BY 4.0
