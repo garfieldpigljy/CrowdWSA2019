@@ -5,11 +5,14 @@ Data and code for "A Dataset of Crowdsourced Word Sequences: Collections and Ans
 
 # data format:
 
-*_label_anonymous.tsv: the crowdsourced word sequence data. We anonymize the worker ids used on the crowdsourcing platform.
-[worker \t sentence \t worker_answer]
+1. *_label_anonymous.tsv: [worker \t sentence \t workeranswer]
 
-*_gt.tsv: the original sentences (true answer) in the target language, for evaluation of the answer aggregation methods.
-[sentence \t true_answer]
+the crowdsourced word sequence data. We anonymize the worker ids used on the crowdsourcing platform.
+
+2. *_gt.tsv: [sentence \t trueanswer]
+
+the original sentences (true answer) in the target language, for evaluation of the answer aggregation methods.
+
 
 ## Citation (To Appear)
     
