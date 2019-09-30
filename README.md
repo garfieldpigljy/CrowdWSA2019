@@ -1,8 +1,15 @@
 # CrowdWSA2019
 Crowdsourced Word Sequence Aggregation 2019
 
-Data and code for ["A Dataset of Crowdsourced Word Sequences: Collections and Answer Aggregation for Ground Truth Creation"] by Jiyi Li and Fumiyo Fukumoto, EMNLP-IJCNLP 2019 Workshop of AnnoNLP (Aggregating and analysing crowdsourced annotations for NLP)
+Data and code for "A Dataset of Crowdsourced Word Sequences: Collections and Answer Aggregation for Ground Truth Creation" by Jiyi Li and Fumiyo Fukumoto, EMNLP-IJCNLP 2019 Workshop of AnnoNLP (Aggregating and analysing crowdsourced annotations for NLP)
 
+# data format:
+
+*_label_anonymous.tsv: the crowdsourced word sequence data. We anonymize the worker ids used on the crowdsourcing platform.
+[worker \t sentence \t worker_answer]
+
+*_gt.tsv: the original sentences (true answer) in the target language, for evaluation of the answer aggregation methods.
+[sentence \t true_answer]
 
 ## Citation (To Appear)
     
