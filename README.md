@@ -14,17 +14,39 @@ the crowdsourced word sequence data. We anonymize the worker ids used on the cro
 the original sentences (true answer) in the target language, for evaluation of the answer aggregation methods.
 
 
-## Citation (To Appear)
-    
+## Citation
+
+If you use this dataset, please cite any one of the following papers.  
+
 	@inproceedings{CrowdWSA2019,
 		title = "A Dataset of Crowdsourced Word Sequences: Collections and Answer Aggregation for Ground Truth Creation",
-		author = "Jiyi Li and Fumiyo Fukumoto",
-		booktitle = "Proceedings of the 2019 {EMNLP} Workshop {A}nno{NLP}: Aggregating and analysing crowdsourced annotations for {NLP}",
+		author = "Li, Jiyi and Fukumoto, Fumiyo",
+		booktitle = "Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP",
 		month = nov,
 		year = "2019",
-		address = "Hongkong, China",
+		address = "Hong Kong",
 		publisher = "Association for Computational Linguistics",
-    }
+		url = "https://www.aclweb.org/anthology/D19-5904",
+		doi = "10.18653/v1/D19-5904",
+		pages = "24--28"
+	}
+	
+	@inproceedings{CrowdHRRASA,
+		author = {Li, Jiyi},
+		title = {Crowdsourced Text Sequence Aggregation Based on Hybrid Reliability and Representation},
+		year = {2020},
+		isbn = {9781450380164},
+		publisher = {Association for Computing Machinery},
+		address = {New York, NY, USA},
+		url = {https://doi.org/10.1145/3397271.3401239},
+		doi = {10.1145/3397271.3401239},
+		booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+		pages = {1761–1764},
+		numpages = {4},
+		keywords = {reliability, crowdsourcing, text sequence aggregation},
+		location = {Virtual Event, China},
+		series = {SIGIR '20}
+	}
 
 
 ## License
