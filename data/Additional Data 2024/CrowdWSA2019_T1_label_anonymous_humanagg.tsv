@@ -1,0 +1,501 @@
+worker	sentence	workeranswer
+aggworker0	298	In fact, they are not a couple.
+aggworker1	298	In reality they are not a couple.
+aggworker2	298	To tell the truth, they are not married couple.
+aggworker3	298	To tell the truth, they are not a couple
+aggworker4	298	To tell the truth, they are not a married couple.
+aggworker5	869	Take a closer look at this photo and find me in this.
+aggworker6	869	Look carefully at this photo and find me.
+aggworker7	869	Can you find me in this photo?
+aggworker8	869	Look, and find me in this picture.
+aggworker9	869	Look at this photo and find me.
+aggworker6	23	If the road is not crowded, there is no problem.
+aggworker10	23	You will be fine as long as the traffic isn't heavy.
+aggworker11	23	There will be no problem as long as the traffic is not so heavy.
+aggworker7	23	It's no problem if there's no traffic jam.
+aggworker1	23	If there is no traffic, there is no problem.
+aggworker11	672	He lost sight in one eye in a traffic accident.
+aggworker12	672	He lost sight of one eye in a traffic accident.
+aggworker5	672	He lost sight in one eye in a car accident.
+aggworker13	672	He lost sight in one eye in a traffic accident.
+aggworker14	672	Due to traffic accident,he lost eyesight of one eye.
+aggworker4	822	My mother was very beautiful when she was young.
+aggworker5	822	My mother when she was young was very beautiful.
+aggworker15	822	When my mother was young, she was so beautiful.
+aggworker1	822	My mother was very beautiful when she was young.
+aggworker11	822	My mother was very beautiful, when she was young.
+aggworker13	950	We would be grateful if you could help us.
+aggworker4	950	I would be very happy if you helped us.
+aggworker12	950	If you could help us, I would be very happy.
+aggworker16	950	We would appreciate your cooperation.
+aggworker11	950	If you help us, we are so happy.
+aggworker17	148	As is often the case with her, she broke her promise.
+aggworker18	148	She broke the promise as always.
+aggworker5	148	As is often the case, she broke her promise.
+aggworker19	148	She always breaks our promise.
+aggworker20	148	As is often the case with her, she broke her promise.
+aggworker7	809	I have to prepare for tomorrow night event.
+aggworker21	809	I have to prepare for tomorrow tonight.
+aggworker16	809	I have to get ready for tomorrow tonight.
+aggworker0	809	I have to prepare for tomorrow tonight.
+aggworker2	809	Tonight I have to get ready for tomorrow.
+aggworker20	666	We had no choice but had to cancel the game due to rain.
+aggworker22	666	I had no choice but to cancel the game due to rain.
+aggworker23	666	We had to call off the game because of the rain.
+aggworker24	666	I had to cancel the match because of the rain.
+aggworker10	666	Due to the rain, the game had to be canceled.
+aggworker25	1009	Please go ahead if I'm late.
+aggworker4	1009	Please go without me if I'm late.
+aggworker1	1009	If I am late, please leave first.
+aggworker0	1009	If I'm late, please go first.
+aggworker2	1009	If I am late, please leave first.
+aggworker5	659	If you have $ 1 million, how would you spend it?
+aggworker6	659	What would you do if you had a million dollars?
+aggworker7	659	If you won 1 million dollars, what would you like to do?
+aggworker26	659	What would you use if you had a million dollars?
+aggworker11	659	If you have a million dollars, what would you do?
+aggworker11	946	It is important to find a true friend when you are young.
+aggworker7	946	It is very important to find a really good friend when you  are young age.
+aggworker17	946	It is important to find a true friend when you are young.
+aggworker6	946	It is important to find a true friend while you are young.
+aggworker10	946	It is important to find true friends when you are young.
+aggworker16	826	He often came to talk to me on sundays.
+aggworker8	826	He often came to talk me on sunday.
+aggworker18	826	He used to come here to chat on Sundays.
+aggworker6	826	He came to speak even on Sunday.
+aggworker27	826	He comes to talk with me on Sundays.
+aggworker6	132	He writes to his parents once a month.
+aggworker28	132	He always writes a letter to his parents at least once a month.
+aggworker29	132	He writes a letter to his parents every month.
+aggworker18	132	He never fail to write the letter to his parents every month.
+aggworker10	132	He writes a letter to his parents every month.
+aggworker5	75	If you want to succeed, you have to work hard.
+aggworker30	75	It takes effort for you to succeed.
+aggworker19	75	If you want to be success, you need to make efforts.
+aggworker6	75	If you want to succeed, you have to work hard.
+aggworker12	75	If you want to succeed, you have to work hard.
+aggworker29	368	Coffee is too hot to drink for me
+aggworker31	368	This coffee is too hot for me to drink.
+aggworker20	368	This coffee is too hot to drink.
+aggworker7	368	I cannot drink this coffee because it's too hot.
+aggworker6	368	This coffee is too hot to drink.
+aggworker18	219	It is not much difference whether you go today or tomorrow.
+aggworker17	219	Whether you go today or not, it will not make much difference.
+aggworker4	219	It doesn't make much difference if you go today.
+aggworker1	219	It makes no difference if you go today.
+aggworker6	219	It doesn't make a big difference where I went today.
+aggworker18	256	When I was not here, please take care of my baby.
+aggworker2	256	Please take care of my baby while I am away.
+aggworker27	256	Please take care of my baby while I'm gone.
+aggworker6	256	Take care of your baby while I'm not here.
+aggworker29	256	Take care of your baby while I'm away.
+aggworker25	418	He was very naughty when he was a boy.
+aggworker18	418	He was very naughty when he was a child
+aggworker11	418	He was very naughty when he was a boy.
+aggworker22	418	He was very naughty when he was a little boy.
+aggworker14	418	He was very naughty boy in childhood.
+aggworker6	78	I was born in Osaka but grew up in Tokyo.
+aggworker19	78	I was born in Osaka and grew up in Tokyo.
+aggworker20	78	I was born in Osaka but I grew up in Tokyo.
+aggworker4	78	I was born in Osaka, but grew up in Tokyo.
+aggworker25	78	I was born in Osaka but grew up in Tokyo.
+aggworker18	608	I'd like to get on the train bound for New York at 6 AM.
+aggworker32	608	I want to take the train to New York departing at 6 am
+aggworker17	608	I want to catch the train bound for New York at 6 o'clock.
+aggworker14	608	I want to get and ride on a train to New York at 6:00.
+aggworker1	608	I want to take the 6 o'clock train to New York.
+aggworker5	727	If it rains tomorrow, the match will be cancelled.
+aggworker22	727	If it is rainy tomorrow, the match will be canceled.
+aggworker18	727	The game will be cancelled if it rains tomorrow.
+aggworker7	727	The game will be cancelled if it's rain tomorrow.
+aggworker19	727	The match will be canceled because it is rain tomorrow.
+aggworker33	24	I was made to wait for two hours.
+aggworker6	24	I've been waiting for two hours.
+aggworker1	24	I kept waiting for 2 hours.
+aggworker11	24	I was kept waiting for two hours.
+aggworker10	24	I had to wait for two hours.
+aggworker34	782	This is the most difficult book I've ever read.
+aggworker5	782	This book is the most difficult I have ever read.
+aggworker19	782	This is the most difficult book as I had ever read.
+aggworker20	782	This is the most difficult book that I have ever read.
+aggworker18	782	This is the most difficult book I've ever read.
+aggworker18	610	Could you find a house with a small yard for me?
+aggworker7	610	Would you please find a house with a small garden for me?
+aggworker27	610	Could you help me find a house with a small garden?
+aggworker5	610	Would you please find a house with a small garden?
+aggworker4	610	Will you find a house with a small garden?
+aggworker9	641	I don't like doing it, actually.
+aggworker5	641	To be honest, I don't want to do it.
+aggworker19	641	In the honest, I do not want to do it.
+aggworker14	641	Actually, I don't want to do something
+aggworker6	641	Actually I don't want to do that.
+aggworker7	53	I will give you whole year value salary in advance.
+aggworker20	53	 I will give you an allowance for the whole year in advance.
+aggworker1	53	First, we will give you one year's allowance.
+aggworker4	53	I'll give you one year's worth of pocket money in advance.
+aggworker24	53	We will give you one year's allowance.
+aggworker5	1055	I would be happy if you could come with me.
+aggworker18	1055	I am happy if you come with me.
+aggworker29	1055	I am happy with you.
+aggworker35	1055	I'd be happy if you could come with me.
+aggworker2	1055	I am happy if you came with me.
+aggworker19	839	If I could be there 2 minutes earlier, I could take the bus.
+aggworker5	839	If I had arrived here two minutes early, I would have been able to catch the bus.
+aggworker6	839	If I had come two minutes early, I would have been able to get on the bus.
+aggworker29	839	 I couldn't get on the bus two minutes late
+aggworker7	839	I could be on that bus if I came here 2 minutes earlier.
+aggworker18	823	The student did not reply to the teacher.
+aggworker7	823	The student didn't respond even their teacher's question.
+aggworker6	823	The student did not answer the teacher.
+aggworker9	823	The student didn't reply to the teacher.
+aggworker5	823	The student didn't even reply to the teacher.
+aggworker7	713	I can't guarantee that this plan would be success in end or not.
+aggworker11	713	I am not sure whether this plan will be successful or not.
+aggworker6	713	It's unclear if the plan will work.
+aggworker25	713	I don't know whether this plan will succeed or not.
+aggworker29	713	I don't know if the plan will succeed.
+aggworker5	833	Previously, there was a coffee shop near the park.
+aggworker6	833	There used to be a coffee shop near the park.
+aggworker13	833	There used to be a coffee shop near the park.
+aggworker36	833	There used to be a coffee shop near the park
+aggworker8	833	Before the coffee shop was near the park.
+aggworker37	939	 Please call me, when you will come here next time.
+aggworker38	939	Please contact me the next time you come.
+aggworker27	939	Please call me the next time you come.
+aggworker18	939	When you come next time, please call me.
+aggworker7	939	Please give me a call when you come to see me next time.
+aggworker6	770	My voice doesn't reach in the noisy class.
+aggworker39	770	My voice did not pass at that noisy class.
+aggworker11	770	My voice didn't go through in that noisy classroom.
+aggworker13	770	I couldn't hear my voice in the noisy classroom.
+aggworker17	770	My voice did not pass in the noisy class.
+aggworker40	654	I stayed at a hotel on top of a hill in that town.
+aggworker1	654	I stayed at a hotel on a hill in the city.
+aggworker4	654	I stayed at a hotel on the hill of the town.
+aggworker10	654	I stayed at a hotel on the hill of the town.
+aggworker24	654	I stayed at a hotel on the hill of the town.
+aggworker19	320	He came at 10, left at 11.
+aggworker8	320	He came here at 10o'clock and left at 11o'clock.
+aggworker16	320	He came here at 10:00 and left at 11:00.
+aggworker25	320	He came here at 10 and left at 11.
+aggworker1	320	He came here at 10 o'clock and returned at 11 o'clock.
+aggworker7	162	He couldn't do what he said.
+aggworker19	162	He said to make it but failed.
+aggworker25	162	He failed to do what he said.
+aggworker22	162	He couldn't do that he said.
+aggworker2	162	 He could not do what he said.
+aggworker23	683	An old man Mr.Smith is saving money as much as possible.
+aggworker18	683	Mr. Smith of the elderly saves money as much as possible.
+aggworker41	683	Mr. Smith, the old man, saves as much money as he can.
+aggworker1	683	Old Smith is saving money.
+aggworker27	683	Mr. Smith, who is very old, helps us with as much funding as he can.
+aggworker20	732	After walking for a while, we came to the lake.
+aggworker22	732	After walking for a while, we arrived at the lake.
+aggworker5	732	After walking for a while, I arrived at the lake.
+aggworker42	732	We arrived at the lake  after walking for a while.
+aggworker4	732	After walking for a while, we arrived at the lake.
+aggworker43	812	It will be sunny after one hour.
+aggworker16	812	It'll definitely clear up in an hour.
+aggworker1	812	The sky will clear up in an hour.
+aggworker4	812	It will definitely clear up within an hour.
+aggworker0	812	It will unquestionably clear up in about an hour.
+aggworker4	22	Soccer is more popular in Japan than ever before.
+aggworker19	22	Foot ball is getting more popular than before in Japan.
+aggworker2	22	Soccer is more popular in Japan than ever before.
+aggworker23	22	Soccer has become more popular in Japan than it used to be.
+aggworker24	22	Soccer is more popular than ever in Japan.
+aggworker11	720	First of all, you have to be careful about what you eat and drink.
+aggworker0	720	First of all, you should be careful about food and drink.
+aggworker4	720	6. First of all, you need to be careful about what you eat and what you drink.
+aggworker24	720	First of all, you need to be careful about food and drinks.
+aggworker44	720	First of all, you should care for what to eat and drink.
+aggworker7	598	Be sure to take a note of her instruction.
+aggworker45	598	Make sure you take notes of what she says.
+aggworker42	598	Please take a note about her talk.
+aggworker0	598	Be sure to make a note of what she says.
+aggworker46	598	Please be sure to take a note of what she says.
+aggworker10	570	I want to live as long as I stay fit.
+aggworker7	570	I want to live healthy as long as possible.
+aggworker4	570	I want to live as long as I can stay healthy.
+aggworker11	570	I want to live as long as I can stay healthy.
+aggworker47	570	As long as I stay healthy, I want to live.
+aggworker0	33	He always speaks ill of his father behind his back.
+aggworker47	33	He always speaks ill of his father behind his back.
+aggworker6	33	He always speaks badly about his father.
+aggworker7	33	He often speaks about his father's illness.
+aggworker8	33	He always talks ill about his father.
+aggworker6	142	I decided to postpone the meeting until next Sunday.
+aggworker48	142	We decided to postpone the meeting until next Sunday.
+aggworker5	142	We have decided to postpone the meeting to the next Sunday.
+aggworker49	142	We decided to postpone the meeting until next Sunday.
+aggworker11	142	We decided to postpone the meeting until next Sunday.
+aggworker4	154	I don't have enough time to do everything I want to do.
+aggworker50	154	I don't have enough time to do everything i want.
+aggworker51	154	I do not have time to perform all wanting to do it.
+aggworker52	154	I have no time to do everything I want to do.
+aggworker11	154	I don't have time to do everything I want to do.
+aggworker2	539	Without exams, our school life would be more enjoyable.
+aggworker17	539	If it were not for examinations, our school life would be more fun.
+aggworker53	539	Without the examinations, our school life would be more enjoyable.
+aggworker18	539	Our school life will be more happy, if we don't have the examination.
+aggworker10	539	If there were no exams, school life would be a lot more fun.
+aggworker54	530	2. I am very happy to meet you.
+aggworker55	530	I am truly honored to meet you.
+aggworker20	530	I am so honored to meet you.
+aggworker5	530	 I'm glad to meet you.
+aggworker42	530	I am so happy to meet you
+aggworker6	43	I'm happy to be in the school I wanted to go to.
+aggworker18	43	I'm so happy to hear that you were accepted by the school you wanted to go.
+aggworker56	43	I'm glad that you entered the school ,you wish
+aggworker57	43	I'm glad you were able to get into the school you wanted to go to.
+aggworker11	43	I am so happy for you because you got accepted by the school you wanted to go.
+aggworker5	941	I worked hard not to make mistakes at work.
+aggworker6	941	We worked hard not to fail.
+aggworker18	941	I worked very hard.  Because, I don't wont lost.
+aggworker20	941	I worked hard not to make mistakes.
+aggworker48	941	I worked hard so as not to fail.
+aggworker58	701	What would you do if you were me?
+aggworker12	701	What would you do if you were in my position?
+aggworker48	701	What would you like to do if you were me.
+aggworker7	701	If you are in my situation, what would you do?
+aggworker55	701	What would you do if you were in the same position as me?
+aggworker55	9	 When crossing the road, watch out for cars.
+aggworker48	9	Watch out for cars when crossing the road.
+aggworker18	9	When you cross the road, be careful of the car.
+aggworker25	9	Be careful of the cars when you cross the road.
+aggworker7	9	Be cautious when you cross the road.
+aggworker8	423	Don't get angry.It is no good for you.
+aggworker5	423	Don't get angry. It doesn't do you any good.
+aggworker34	423	Don't get angry. It is not good for you.
+aggworker2	423	Do not get angry, it is not good for you.
+aggworker59	423	Don't get angry. It is not good for you.
+aggworker7	334	She passed the exam because she studied so hard.
+aggworker8	334	She studied hard to pass the exam.
+aggworker55	334	She studied hard to pass the exam.
+aggworker47	334	She studied hard so as not to fail the exam.
+aggworker20	334	She studied very hard not to fail her exam.
+aggworker7	644	There was a fire near station last night.
+aggworker20	644	There was a fire near the station last night.
+aggworker18	644	Last night, there was a fire near the station.
+aggworker48	644	A nearby station caught fire last night.
+aggworker55	644	There was a fire near the station last night.
+aggworker51	121	Nobody had courage to point out his mistake.
+aggworker60	121	None of us bravely pointed out his mistakes.
+aggworker12	121	No one had the courage to point out his mistakes.
+aggworker5	121	No one had the courage to point out his mistakes.
+aggworker20	121	Nobody had a courage to point out his mistakes.
+aggworker45	491	I have a lot to do this week.
+aggworker48	491	I have a lot to do this week
+aggworker39	491	I have a lot to do this week.
+aggworker18	491	I have a lot of things to do this week.
+aggworker8	491	I have a lot of times to do this week.
+aggworker12	238	He went to Paris and met me for the first time.
+aggworker45	238	I met him for the first time when he was in Paris.
+aggworker2	238	He went to Paris and met me first.
+aggworker6	238	He went to Paris and met me first.
+aggworker18	238	He went to Paris and met me for the first time.
+aggworker6	655	I don't know when he will come back.
+aggworker39	655	I don't know when he will come.
+aggworker8	655	I don't know when he comes.
+aggworker20	655	I am not sure when he comes.
+aggworker2	655	I don't know when he will come.
+aggworker10	99	The job is so easy; even a child could do it.
+aggworker7	99	The job is very easy and even kids can do it.
+aggworker45	99	This job is so easy a child could do it.
+aggworker55	99	This job is easy enough to do even a little child.
+aggworker17	99	This job is very simple enough for children to do.
+aggworker24	389	Which is easier, this book or that book?
+aggworker4	389	Which is easier to read, this book or that one?
+aggworker11	389	Which book is easier to read, this one or that one?
+aggworker0	389	Which is easier to read, this book or that one?
+aggworker46	389	Which book is easier to read, this one or that one?
+aggworker7	753	Please loan some money because I need money.
+aggworker52	753	In short, I need money. Please lend it to me.
+aggworker61	753	In short, I'm in need of money. Please lend me some money.
+aggworker49	753	In short, I need money. So, lend me some!
+aggworker11	753	In short, I need money. Lend me money!
+aggworker39	686	I want to say it's no good.
+aggworker2	686	I want to say it's no good.
+aggworker6	686	I'll tell you this isn't good.
+aggworker5	686	I'll just say this is not good.
+aggworker7	686	All I can say is that is totally not good.
+aggworker42	832	if you want to stay here,you need to keep quiet.
+aggworker47	832	If you keep quiet, you can stay here.
+aggworker5	832	If you're quiet, you can stay here.
+aggworker45	832	If you're quiet, you can stay here.
+aggworker6	832	If you are silent, you can stay here.
+aggworker2	864	I do not lend books to my students.
+aggworker4	864	I don't lend my book to any students.
+aggworker0	864	I don't lend books to any students.
+aggworker16	864	I don't lend my books to any students.
+aggworker24	864	I don't lend my books to my students.
+aggworker7	401	The movie was great.
+aggworker55	401	That movie was a huge hit. 
+aggworker20	401	The movie was a huge hit.
+aggworker11	401	The movie made a big hit.
+aggworker24	401	The movie was a big hit.
+aggworker6	843	If it rains tomorrow I will be at home.
+aggworker48	843	It's raining tomorrow so I'm at home.
+aggworker60	843	I will stay at home if it rains tomorrow
+aggworker2	843	I will be at home if it rains tomorrow.
+aggworker8	843	If it rains tomorrow, I will stay home.
+aggworker51	140	He showed around the town very kindly.
+aggworker6	140	He is kind enough to show you around the city.
+aggworker18	140	He was so kind to show around the town.
+aggworker42	140	I was kindly introduced the town by him.
+aggworker55	140	He kindly guided me around the city.
+aggworker46	927	I couldn't go to school yesterday because I was sick.
+aggworker24	927	I couldn't go to school yesterday because of sickness.
+aggworker4	927	I couldn't go to school yesterday because I was sick.
+aggworker10	927	I couldn't go to school because I was sick.
+aggworker11	927	I couldn't go to school yesterday because I was  sick.
+aggworker0	170	It takes 10 miles to the hospital.
+aggworker48	170	There are 10 miles from here to the hospital.
+aggworker7	170	The hospital is 10 miles away from here.
+aggworker18	170	There are 10 mile from here to the hospital.
+aggworker62	170	The hospital is 10 miles from here.
+aggworker33	362	They seldom go out after having a baby.
+aggworker39	362	They are less likely to go out after their child is born.
+aggworker5	362	After having children, they rarely go out.
+aggworker12	362	Ever since their children were born, they rarely go out.
+aggworker63	362	They barely go out after their child's birth.
+aggworker7	642	Hair of dogs are best tranquilizer in any situation.
+aggworker42	642	Hair of the dog is good at that case.
+aggworker45	642	On mornings like this, you have to drink.
+aggworker11	642	At times like this, it's best to have a hair of the dog.
+aggworker4	642	In such a situation, there is nothing better than a hair of the dog.
+aggworker17	1029	I will visit you when I go to New York.
+aggworker60	1029	I shall see you at New York
+aggworker5	1029	I will visit you when I go to New York.
+aggworker25	1029	I will visit you when I go to New York.
+aggworker24	1029	I will visit you when I go to New York.
+aggworker55	1042	If it rains tomorrow, we'll go by bus.
+aggworker8	1042	 If it rains tomorrow, we go by bus.
+aggworker5	1042	If it rains tomorrow, we will go by bus.
+aggworker10	1042	If it rains tomorrow, we will go by bus.
+aggworker59	1042	If it will rain tomorrow by any chance, We will go by bus.
+aggworker32	773	I hate him because he gets angry soon.
+aggworker45	773	I don't like him because he's angry.
+aggworker2	773	I do not like him because he gets angry quickly.
+aggworker55	773	I hate him because he gets angry quickly.
+aggworker7	773	I don't like him because he's such a short temper.
+aggworker6	176	If you want to eat more, eat slowly.
+aggworker61	176	You shouldn't eat so fast, you should eat more slowly.
+aggworker10	176	Don't gobble up. Eat more slowly.
+aggworker0	176	Don't eat that fast. Let's eat more slowly.
+aggworker4	176	Don't eat so quickly, let's eat more slowly.
+aggworker60	960	Anywhere he goes, he is good at making friends
+aggworker51	960	He will certainly make a friend everywhere.
+aggworker18	960	He always make friends wherever he goes.
+aggworker7	960	It is easy for him to make friends anywhere he goes.
+aggworker48	960	He is always with many friends
+aggworker39	796	I will take care of the garden.
+aggworker64	796	Maybe I want to take care of my garden
+aggworker20	796	I am going to take care of my garden.
+aggworker65	796	I'm gonna take care of the garden.
+aggworker7	796	I think I'm going to take care of my garden.
+aggworker11	825	I will let her call back soon when it get back.
+aggworker4	825	I'll have him call you back as soon as he comes back.
+aggworker0	825	I'll make him call you back as soon as he returns.
+aggworker46	825	I will tell him call you back as soon as he comes back.
+aggworker12	825	I will have him call you back as soon as he returns.
+aggworker7	260	If he’s found, he sure will be in big trouble.
+aggworker0	260	If they find him, he will have a terrible experience.
+aggworker6	260	If he can't be found or he will be in serious trouble.
+aggworker60	260	There will be the havoc when they find him
+aggworker57	260	If they find him, he'll be in a lot of trouble.
+aggworker7	502	I can pay it if I have enough money.
+aggworker45	502	If there's enough money to pay, I'll pay.
+aggworker49	502	If I had enough money, I could pay for it.
+aggworker17	502	If I had enough money, I could pay.
+aggworker5	502	If I have enough money to pay, I can.
+aggworker66	834	She has been suffering from back pain for a long time.
+aggworker5	834	She has been suffering from back pain for years.
+aggworker20	834	She has been suffering from the back pain for many years.
+aggworker49	834	She has been suffering from lower back pain for many years.
+aggworker18	834	She has been suffering from lower back pain for many years.
+aggworker12	617	How many hours do you take a nap every day?
+aggworker7	617	How long do you take a nap everyday?
+aggworker18	617	How long hours do you take a nap every day?
+aggworker48	617	How many hours do you take a nap every day.
+aggworker14	617	How many hours do you take a nap in afternoon everyday?
+aggworker51	531	Even if anything happens, I will not be surprised.
+aggworker17	531	Whatever happens, I will not be surprised.
+aggworker7	531	I'm not surprised whatever happened.
+aggworker18	531	No matter what happens, I am not surprised.
+aggworker2	531	No matter what happens, I will not be surprised at all.
+aggworker17	745	You do not need to go in such a hurry.
+aggworker55	745	You do not need to go such in a hurry.
+aggworker3	745	You do not need to be in such a hurry
+aggworker6	745	You don't have to hurry so much.
+aggworker20	745	You don't have to go in such a hurry.
+aggworker32	691	It is difficult to understand his story
+aggworker6	691	It's hard to understand what he's saying.
+aggworker7	691	It is very hard to understand his speech.
+aggworker48	691	It is difficult  to understand what he is saying.
+aggworker18	691	It's difficult to understand what he says.
+aggworker42	130	Nobody comes to such a remote village.
+aggworker49	130	Nobody comes to such a remote village.
+aggworker0	130	No one visits us living in such a remote village.
+aggworker57	130	There is no one to visit us in this remote village.
+aggworker5	130	No one visits such a remote village.
+aggworker39	873	His English composition is almost correct.
+aggworker7	873	His English composition skill is almost perfect.
+aggworker6	873	There are some mistakes in his English.
+aggworker12	873	There are few mistakes in his English composition.
+aggworker24	873	There are few mistakes in his English composition.
+aggworker2	779	I studied English without watching TV last night.
+aggworker5	779	I studied without watching TV last night.
+aggworker18	779	 I studied English last night without watching TV.
+aggworker7	779	He studies English without watching TV last night.
+aggworker55	779	I studied English last night without watching TV.
+aggworker12	870	On the way there, we took turns driving.
+aggworker51	870	On the way to there, we drove by a change.
+aggworker18	870	We took turns driving On the way .
+aggworker42	870	We drove a car by turns to go there.
+aggworker20	870	We took turns driving on the way there.
+aggworker8	499	  I wont to have a Japanese version.
+aggworker5	499	I want the Japanese version.
+aggworker4	499	I wish I had a Japanese version.
+aggworker18	499	I wish I have a Japanese version.
+aggworker33	499	I wish I had a Japanese version.
+aggworker4	212	I'm sorry to have kept you waiting for a long time.
+aggworker56	212	I'm sorry to have keep you waiting for  a long time
+aggworker8	212	I am sorry that you waiting for long time.
+aggworker7	212	I'm sorry for keep you waiting such a long time.
+aggworker11	212	 I am sorry to have kept you wait such a long time.
+aggworker0	841	My house is a little far from the station.
+aggworker11	841	My house is a little away from the station.
+aggworker12	841	My house is a little far from the station.
+aggworker16	841	My house is a little far from the station.
+aggworker4	841	My house is a little far from the station.
+aggworker4	80	The house has no buyers yet.
+aggworker7	80	The house was still on the market.
+aggworker67	80	That house haven't  found a buyer yet.
+aggworker18	80	No one buys the house yet.
+aggworker61	80	That house hasn't been sold yet.
+aggworker8	1017	 I can't have idea  to contact him.
+aggworker6	1017	There is no way to meet him.
+aggworker52	1017	There's no way to contact him.
+aggworker51	1017	There is no means in communication with him.
+aggworker7	1017	There is no way to contact him.
+aggworker5	769	Let's assume you have 1 million yen.
+aggworker6	769	Imagine you have a million dollars at hand.
+aggworker7	769	Imagine if you have one million yen on hand.
+aggworker50	769	Let's say we have a million yen in our hands.
+aggworker25	769	Suppose we have one million yen on hand.
+aggworker68	737	Please tell me if you have any questions.
+aggworker0	737	If you have any questions, please let me know.
+aggworker17	737	Please let us know if you have any questions.
+aggworker16	737	If there is anything we can help you with, please don’t hesitate to ask.
+aggworker4	737	If you have any questions, please let us know.
+aggworker2	621	According to the weather forecast, it will rain in the afternoon.
+aggworker5	621	According to the weather forecast, it will rain in the afternoon.
+aggworker60	621	It has been forcasted rain tomorrow.
+aggworker39	621	According to the weather forecast, it will rain in the afternoon.
+aggworker7	621	According to the weather news, it will rain tomorrow.
+aggworker6	609	We were outside when the phone rang.
+aggworker7	609	We were about to go when the phone rang.
+aggworker5	609	The phone rang when we were about to go out.
+aggworker8	609	When the telephone rang, we have a just time to go out.
+aggworker48	609	We were out when the phone rang.
